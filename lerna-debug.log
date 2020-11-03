@@ -1,0 +1,13 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: 'cat',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': 'C:\\Program Files\\nodejs\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: 'loash'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath D:\person-file\JavaScript-demo\lerna
+3 error loash: No valid versions available for loash
+3 error     at pickManifest (C:\Users\DELL\AppData\Roaming\nvm\v12.12.0\node_modules\lerna\node_modules\npm-pick-manifest\index.js:39:11)
+3 error     at C:\Users\DELL\AppData\Roaming\nvm\v12.12.0\node_modules\lerna\node_modules\@evocateur\pacote\lib\fetchers\registry\manifest.js:24:14
